@@ -18,9 +18,9 @@ countyID,LKType,LKName,probText,n_people
 9671,LK,Aschaffenburg,99.8,173695.0
 9761,SK,Augsburg,99.9,286374.0
 9772,LK,Augsburg,99.9,245600.0
-3452,LK,Aurich,80.8,189199.0
+3452,LK,Aurich,80.80000000000001,189199.0
 7133,LK,Bad,99.7,156821.0
-7332,LK,Bad,81.1,132203.0
+7332,LK,Bad,81.10000000000001,132203.0
 9173,LK,Bad,99.9,124930.0
 9672,LK,Bad,99.9,103106.0
 8211,SK,Baden-Baden,83.0,54160.0
@@ -51,7 +51,7 @@ countyID,LKType,LKName,probText,n_people
 7232,LK,Bitburg-Prüm,-55.5,97180.0
 5911,SK,Bochum,99.0,364742.0
 8435,LK,Bodenseekreis,99.3,212201.0
-5314,SK,Bonn,93.6,318809.0
+5314,SK,Bonn,93.60000000000001,318809.0
 5554,LK,Borken,98.6,369666.0
 5512,SK,Bottrop,99.7,117143.0
 12051,SK,Brandenburg,100.0,71574.0
@@ -70,11 +70,11 @@ countyID,LKType,LKName,probText,n_people
 9463,SK,Coburg,100.0,41257.0
 9473,LK,Coburg,100.0,86599.0
 7135,LK,Cochem-Zell,99.4,62391.0
-5558,LK,Coesfeld,81.9,218401.0
+5558,LK,Coesfeld,81.89999999999999,218401.0
 12052,SK,Cottbus,99.6,99687.0
 3352,LK,Cuxhaven,100.0,198103.0
 9174,LK,Dachau,85.0,149370.0
-12061,LK,Dahme-Spreewald,56.9,164528.0
+12061,LK,Dahme-Spreewald,56.89999999999999,164528.0
 6411,SK,Darmstadt,98.3,155353.0
 6432,LK,Darmstadt-Dieburg,99.8,292773.0
 9271,LK,Deggendorf,99.9,116596.0
@@ -107,7 +107,7 @@ countyID,LKType,LKName,probText,n_people
 9572,LK,Erlangen-Höchstadt,100.0,134136.0
 14521,LK,Erzgebirgskreis,99.7,347665.0
 5113,SK,Essen,95.1,582624.0
-8116,LK,Esslingen,90.1,524127.0
+8116,LK,Esslingen,90.10000000000001,524127.0
 5366,LK,Euskirchen,99.8,191165.0
 1001,SK,Flensburg,99.1,85942.0
 9474,LK,Forchheim,100.0,114834.0
@@ -130,7 +130,7 @@ countyID,LKType,LKName,probText,n_people
 6531,LK,Gießen,100.0,262505.0
 3151,LK,Gifhorn,99.4,174205.0
 3153,LK,Goslar,100.0,138236.0
-16067,LK,Gotha,83.9,136831.0
+16067,LK,Gotha,83.89999999999999,136831.0
 3456,LK,Grafschaft,76.9,135662.0
 16076,LK,Greiz,95.8,101114.0
 6433,LK,Groß-Gerau,97.2,266042.0
@@ -145,14 +145,14 @@ countyID,LKType,LKName,probText,n_people
 3252,LK,Hameln-Pyrmont,100.0,148281.0
 5915,SK,Hamm,-69.8,179397.0
 3241,Region,Hannover,99.2,1144481.0
-3353,LK,Harburg,91.1,248122.0
+3353,LK,Harburg,91.10000000000001,248122.0
 15085,LK,Harz,99.9,221366.0
 12063,LK,Havelland,99.8,158236.0
 9674,LK,Haßberge,99.9,84581.0
 3358,LK,Heidekreis,99.9,140264.0
 8221,SK,Heidelberg,98.6,156267.0
 8135,LK,Heidenheim,100.0,130527.0
-8121,SK,Heilbronn,97.4,122567.0
+8121,SK,Heilbronn,97.39999999999999,122567.0
 8125,LK,Heilbronn,99.2,334388.0
 5370,LK,Heinsberg,98.6,252527.0
 3154,LK,Helmstedt,99.3,91500.0
@@ -166,7 +166,7 @@ countyID,LKType,LKName,probText,n_people
 6434,LK,Hochtaunuskreis,98.7,233427.0
 9464,SK,Hof,99.8,44660.0
 9475,LK,Hof,100.0,96429.0
-8126,LK,Hohenlohekreis,92.8,110181.0
+8126,LK,Hohenlohekreis,92.80000000000001,110181.0
 3255,LK,Holzminden,82.5,71659.0
 5762,LK,Höxter,100.0,144010.0
 16070,LK,Ilm-Kreis,82.1,109620.0
@@ -194,7 +194,7 @@ countyID,LKType,LKName,probText,n_people
 16065,LK,Kyffhäuserkreis,94.6,77110.0
 5315,SK,Köln,98.9,1060582.0
 6532,LK,Lahn-Dill-Kreis,99.2,253167.0
-7313,SK,Landau,96.4,45362.0
+7313,SK,Landau,96.39999999999999,45362.0
 9181,LK,Landsberg,99.3,117657.0
 9261,SK,Landshut,100.0,69211.0
 9274,LK,Landshut,99.7,154577.0
@@ -205,7 +205,7 @@ countyID,LKType,LKName,probText,n_people
 9478,LK,Lichtenfels,100.0,66655.0
 6533,LK,Limburg-Weilburg,99.5,171922.0
 9776,LK,Lindau,100.0,80429.0
-5766,LK,Lippe,91.6,350750.0
+5766,LK,Lippe,91.60000000000001,350750.0
 8118,LK,Ludwigsburg,99.1,534074.0
 7314,SK,Ludwigshafen,99.8,164718.0
 13076,LK,LudwigslustParchim,98.4,214113.0
@@ -237,7 +237,7 @@ countyID,LKType,LKName,probText,n_people
 5962,LK,Märkischer,98.3,416171.0
 5116,SK,Mönchengladbach,98.9,259996.0
 9183,LK,Mühldorf,99.7,112034.0
-5117,SK,Mülheim,92.3,169278.0
+5117,SK,Mülheim,92.30000000000001,169278.0
 9162,SK,München,99.4,1450381.0
 9184,LK,München,99.9,340003.0
 5515,SK,Münster,97.7,310039.0
@@ -251,7 +251,7 @@ countyID,LKType,LKName,probText,n_people
 9374,LK,Neustadt,100.0,95078.0
 9575,LK,Neustadt/Aisch-Bad,99.9,98751.0
 7138,LK,Neuwied,-50.3,180655.0
-3256,LK,Nienburg,54.5,120632.0
+3256,LK,Nienburg,54.50000000000001,120632.0
 1054,LK,Nordfriesland,100.0,163960.0
 16062,LK,Nordhausen,100.0,85355.0
 14730,LK,Nordsachsen,100.0,197605.0
@@ -286,14 +286,14 @@ countyID,LKType,LKName,probText,n_people
 9186,LK,Pfaffenhofen,100.0,124128.0
 8231,SK,Pforzheim,99.8,122247.0
 1056,LK,Pinneberg,99.6,307471.0
-7317,SK,Pirmasens,96.9,40125.0
+7317,SK,Pirmasens,96.89999999999999,40125.0
 1057,LK,Plön,100.0,128304.0
-12054,SK,Potsdam,94.9,167745.0
+12054,SK,Potsdam,94.89999999999999,167745.0
 12069,LK,Potsdam-Mittelmark,99.5,210910.0
 12070,LK,Prignitz,93.8,77573.0
 8216,LK,Rastatt,100.0,227474.0
 8436,LK,Ravensburg,99.8,279296.0
-5562,LK,Recklinghausen,82.7,617807.0
+5562,LK,Recklinghausen,82.69999999999999,617807.0
 9276,LK,Regen,-96.6,76812.0
 9362,SK,Regensburg,97.3,145465.0
 9375,LK,Regensburg,100.0,189390.0
@@ -309,7 +309,7 @@ countyID,LKType,LKName,probText,n_people
 7338,LK,Rhein-Pfalz-Kreis,99.8,151546.0
 5382,LK,Rhein-Sieg-Kreis,87.9,596213.0
 6439,LK,Rheingau-Taunus-Kreis,92.7,184114.0
-5378,LK,Rheinisch-Bergischer,97.4,282729.0
+5378,LK,Rheinisch-Bergischer,97.39999999999999,282729.0
 9673,LK,Rhön-Grabfeld,99.0,79723.0
 9163,SK,Rosenheim,100.0,61844.0
 9187,LK,Rosenheim,100.0,256074.0
@@ -327,7 +327,7 @@ countyID,LKType,LKName,probText,n_people
 10044,LK,Saarlouis,100.0,197009.0
 3102,SK,Salzgitter,100.0,101079.0
 15089,LK,Salzlandkreis,100.0,196695.0
-10046,LK,Sankt,84.4,88892.0
+10046,LK,Sankt,84.39999999999999,88892.0
 3257,LK,Schaumburg,100.0,156206.0
 1059,LK,Schleswig-Flensburg,100.0,196839.0
 16066,LK,Schmalkalden-Meiningen,100.0,124623.0
@@ -340,7 +340,7 @@ countyID,LKType,LKName,probText,n_people
 13004,SK,Schwerin,100.0,96800.0
 8127,LK,Schwäbisch,68.7,191614.0
 1060,LK,Segeberg,99.8,267503.0
-5970,LK,Siegen-Wittgenstein,93.6,280800.0
+5970,LK,Siegen-Wittgenstein,93.60000000000001,280800.0
 8437,LK,Sigmaringen,99.0,130772.0
 5974,LK,Soest,65.8,302995.0
 5122,SK,Solingen,94.1,158726.0
@@ -356,7 +356,7 @@ countyID,LKType,LKName,probText,n_people
 1062,LK,Stormarn,100.0,239614.0
 9263,SK,Straubing,100.0,46806.0
 9278,LK,Straubing-Bogen,100.0,98806.0
-8111,SK,Stuttgart,95.9,623738.0
+8111,SK,Stuttgart,95.89999999999999,623738.0
 16054,SK,Suhl,100.0,36778.0
 14628,LK,Sächsische,99.9,247412.0
 16068,LK,Sömmerda,75.1,70600.0
@@ -371,7 +371,7 @@ countyID,LKType,LKName,probText,n_people
 8416,LK,Tübingen,96.6,221837.0
 12073,LK,Uckermark,100.0,121014.0
 3360,LK,Uelzen,80.2,93131.0
-8421,SK,Ulm,97.9,122636.0
+8421,SK,Ulm,97.89999999999999,122636.0
 5978,LK,Unna,83.0,396035.0
 16064,LK,Unstrut-Hainich-Kreis,99.7,105273.0
 9778,LK,Unterallgäu,100.0,140419.0
@@ -393,7 +393,7 @@ countyID,LKType,LKName,probText,n_people
 16071,LK,Weimarer,99.6,82127.0
 9577,LK,Weißenburg-Gunzenhausen,99.9,93342.0
 6636,LK,Werra-Meißner-Kreis,62.8,100715.0
-5170,LK,Wesel,60.2,462664.0
+5170,LK,Wesel,60.199999999999996,462664.0
 3461,LK,Wesermarsch,-87.3,89239.0
 7143,LK,Westerwaldkreis,99.4,200302.0
 6440,LK,Wetteraukreis,97.6,301931.0
@@ -409,5 +409,5 @@ countyID,LKType,LKName,probText,n_people
 9663,SK,Würzburg,100.0,124873.0
 9679,LK,Würzburg,100.0,160427.0
 8417,LK,Zollernalbkreis,99.9,188595.0
-7320,SK,Zweibrücken,95.9,34260.0
+7320,SK,Zweibrücken,95.89999999999999,34260.0
 14524,LK,Zwickau,97.8,324534.0
